@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+
+#apps{
+    background-color: cadetblue;
+    margin: 70px;
+}
+
+#games{
+    background-color: cornflowerblue;
+    margin: 70px;
+}
+
+#chatbot{
+    background-color: darkkhaki;
+    margin: 70px;
+}
